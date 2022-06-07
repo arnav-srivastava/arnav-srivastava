@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-computer-chip-binary-data-futuristic-artificial-intelligence-ai-deep-neural-network-148214232.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-computer-chip-binary-data-futuristic-artificial-intelligence-ai-deep-neural-network-148214232.jpg)
 
 <h1 align="center">Hi 👋, I'm Arnav Srivastava</h1>
 <h3 align="center">Self-motivated student</h3>

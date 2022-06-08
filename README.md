@@ -4,7 +4,7 @@
 <h3 align="center">Self-motivated student</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav1373&label=Profile%20views&color=0e75b6&style=flat" alt="arnav1373" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-srivastava" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
 

@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-srivastava" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Full Stack**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **Java, Python , Redhat Enterprise Linux**
+- 💬 Ask me about **Java, Web Development , Redhat Enterprise Linux**
 
 - 📫 How to reach me **arnavsrivastav398@gmail.com**
 

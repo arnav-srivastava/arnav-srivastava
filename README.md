@@ -1,7 +1,7 @@
 ![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-computer-chip-binary-data-futuristic-artificial-intelligence-ai-deep-neural-network-148214232.jpg)
 
 <h1 align="center">Hi 👋, I'm Arnav Srivastava</h1>
-<h3 align="center">Self-motivated student</h3>
+<h3 align="center">Aspiring Frontend Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mlryytbvcdep.i.optimole.com/nwf-VvQ.nZTa~3aa5c/w:800/h:600/q:mauto/https://www.gcdigital.in/wp-content/uploads/2021/05/Gc-Digital-Coding.gif" >
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **Java, Web Development , Redhat Enterprise Linux**
+- 💬 Ask me about **JavaScript, Web Development React.js, Salesforce Development**
 
 - 📫 How to reach me **arnavsrivastav398@gmail.com**
 

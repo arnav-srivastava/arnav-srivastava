@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **JavaScript, Web Development React.js, Salesforce Development**
+- 💬 Ask me about **JavaScript, Web Development React.js, Java Springboot**
 
 - 📫 How to reach me **arnavsrivastav398@gmail.com**
 

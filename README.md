@@ -1,7 +1,7 @@
-![MasterHead](https://thumbs.dreamstime.com/b/machine-learning-hand-robot-touching-computer-chip-binary-data-futuristic-artificial-intelligence-ai-deep-neural-network-148214232.jpg)
+![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
 <h1 align="center">Hi 👋, I'm Arnav Srivastava</h1>
-<h3 align="center">Aspiring Frontend Developer</h3>
+<h3 align="center">Aspiring Full stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mlryytbvcdep.i.optimole.com/nwf-VvQ.nZTa~3aa5c/w:800/h:600/q:mauto/https://www.gcdigital.in/wp-content/uploads/2021/05/Gc-Digital-Coding.gif" >
 
@@ -18,8 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnavsrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavsrivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/_official.arnav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_official.arnav_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arnav398" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arnav398" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arnav_srivastav2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnav_srivastav2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arnavsrivastav398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnavsrivastav398" height="30" width="40" /></a>
 </p>
@@ -31,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-srivastava&show_icons=true&locale=en" alt="arnav-srivastava" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-srivastava&" alt="arnav-srivastava" /></p>

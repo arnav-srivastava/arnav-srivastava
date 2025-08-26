@@ -79,3 +79,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-srivastava&show_icons=true&locale=en" alt="arnav-srivastava" /></p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnav-srivastava&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=arnav-srivastava&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-srivastava&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+
+

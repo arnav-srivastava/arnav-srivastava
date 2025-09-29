@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
 <h1 align="center">Hi 👋, I'm Arnav Srivastava</h1>
-<h3 align="center">Aspiring Full stack Developer and Automation QA Engineer</h3>
+<h3 align="center">Aspiring Automation QA Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mlryytbvcdep.i.optimole.com/nwf-VvQ.nZTa~3aa5c/w:800/h:600/q:mauto/https://www.gcdigital.in/wp-content/uploads/2021/05/Gc-Digital-Coding.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-srivastava&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-srivastava" /> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Automation Testing using Selenium**
 
-- 🌱 I’m currently deepening my knowledge of **Java Spring Boot**
+- 🌱 I’m currently deepening my knowledge of **Java OOPs and AI concepts**
 
-- 💬 Ask me about **JavaScript, Web Development React.js, Java Springboot**
+- 💬 Ask me about **JavaScript, Java, Selenium WebDriver, Java Springboot**
 
 - 📫 How to reach me **arnavsrivastav398@gmail.com**
 
